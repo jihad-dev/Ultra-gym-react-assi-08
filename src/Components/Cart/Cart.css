@@ -4,3 +4,36 @@
     height: 100vh;
     top: 0;
 }
+.exercise-text{
+    background-color: lightblue;
+    padding: 20px;
+    margin:  30px;
+    border-radius: 7px;
+    cursor: pointer;
+}
+.exercise-texts{
+    display: flex;
+    background-color: lightblue;
+    justify-content: center;
+    padding: 20px;
+    margin:  20px;
+    border-radius: 7px;
+  
+}
+.exercise-round{
+    background-color: lightblue;
+    cursor: pointer;
+    padding: 20px;
+    margin:  30px;
+    border-radius: 7px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+
+}
+.circle{
+    background-color: aliceblue;
+    clip-path: circle();
+    padding: 10px ;
+   
+}
