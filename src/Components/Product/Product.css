@@ -14,10 +14,16 @@
 .btn-cart{
     background-color: cornflowerblue;
     width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     cursor: pointer;
     border-radius: 5px;
     border: none;
     
+}
+.btn-cart .btn-text{
+    margin-right: 6px;
 }
 .btn-cart:hover{
    background-color: orange;
