@@ -8,7 +8,7 @@ const Exercise = () => {
     const [cart,setcart] = useState([]);
 
     useEffect(()=>{
-        fetch('https://raw.githubusercontent.com/ProgrammingHero1/ema-john-resources/main/fakeData/products.json')
+        fetch('Data.json')
         .then(response => response.json())
         .then(data => setproduct(data))
     },[])
@@ -33,7 +33,7 @@ const Exercise = () => {
 
                     ></Product>)
                 }
-            <p>Lorem ipsum dolor sit. {products.length}</p>
+            {/* <p>Lorem ipsum dolor sit. {products.length}</p> */}
             </div>
             <div className="cart-container">
                 <Cart cart={cart}></Cart>

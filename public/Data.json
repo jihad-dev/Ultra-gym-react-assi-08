@@ -1,0 +1,111 @@
+[
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "name": "Get Jacked",
+        "price": 420,
+        "ratings": 4,
+        "ratingsCount": 3725,
+        "img": "https://images.unsplash.com/photo-1549476464-37392f717541?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1887&q=80"
+    
+    },
+    {
+        "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
+        "name": " Dumbbell Central",
+        "price": 196,
+        "ratings": 5,
+        "ratingsCount": 4355,
+        "img": "https://images.unsplash.com/photo-1611672585731-fa10603fb9e0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+      
+    },
+    {
+        "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
+        "name": " Sweat Towel",
+        "price": 245,
+        "ratings": 4,
+        "ratingsCount": 3972,
+        "img": "https://plus.unsplash.com/premium_photo-1661265933107-85a5dbd815af?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1118&q=80"
+       
+     
+    },
+    {
+        "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922", 
+        "name": "Balance Yoga",
+        "price": 229,
+        "ratings": 5,
+        "ratingsCount": 1764,
+        "img": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+       
+    },
+    {
+        "id": "9496d72b-04ec-41f8-9bc3-0a7c9697be8e",
+        "name": " Muscle Mass",
+        "price": 287,
+        "ratings": 4,
+        "ratingsCount": 799,
+        "img": "https://plus.unsplash.com/premium_photo-1661274078120-aa76453212bd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+     
+    },
+    {
+        "id": "6e5593d3-557b-43cf-8dab-a5140faedfb0",
+        "name": " STACKED Fitness",
+        "price": 138,
+        "ratings": 3,
+        "ratingsCount": 4372,
+        "img": "https://images.unsplash.com/photo-1549481446-baf395392d13?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+      
+    },
+    {
+        "id": "9c0c13c2-54e4-4001-809b-afbd9d84037d",
+        "name": "RSG: Ready Set Go Apparel",
+        "price": 226,
+        "ratings": 4,
+        "ratingsCount": 2870,
+        "img": "https://images.pexels.com/photos/13679977/pexels-photo-13679977.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      
+    },
+    {
+        "id": "c9d1f410-d28f-49d9-9b01-d759b5acbeea",
+        "name": "PowerPump Fitness",
+        "price": 319,
+        "ratings": 4,
+        "ratingsCount": 1360,
+        "img": "https://images.pexels.com/photos/1431282/pexels-photo-1431282.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  
+    },
+    {
+        "id": "c9d1f410-d28f-49d9-9b01-d759b5acbeea",
+        "name": "PowerPump Fitness",
+        "price": 319,
+        "ratings": 4,
+        "ratingsCount": 1360,
+        "img": "https://img.freepik.com/free-photo/muscular-young-gentleman-pumping-up-biceps_7502-9050.jpg"
+  
+    },
+    {
+        "id": "c9d1f410-d28f-49d9-9b01-d759b5acbeea",
+        "name": "PowerPump Fitness",
+        "price": 319,
+        "ratings": 4,
+        "ratingsCount": 1360,
+        "img": "https://img.freepik.com/free-photo/young-fitness-man-studio_7502-5014.jpg?t=st=1680281749~exp=1680282349~hmac=b871425d99fa57901a12edd79131f250d9d3da1824a44a7655221602d5076378"
+  
+    },
+    {
+        "id": "c9d1f410-d28f-49d9-9b01-d759b5acbeea",
+        "name": "PowerPump Fitness",
+        "price": 319,
+        "ratings": 4,
+        "ratingsCount": 1360,
+        "img": "https://img.freepik.com/premium-photo/portrait-young-fit-man-showing-front-double-biceps-pose-muscular-athletic-bodybuilder-fitness-model-posing_600776-23776.jpg"
+  
+    },
+    {
+        "id": "c9d1f410-d28f-49d9-9b01-d759b5acbeea",
+        "name": "PowerPump Fitness",
+        "price": 319,
+        "ratings": 4,
+        "ratingsCount": 1360,
+        "img": "https://img.freepik.com/free-photo/young-fitness-man-studio_7502-5004.jpg?w=1060&t=st=1680287522~exp=1680288122~hmac=50df4a384314b7d822d342ea12bc4d5e8340bd65826ba9584578fa58d3608fd3"
+  
+    }
+]
